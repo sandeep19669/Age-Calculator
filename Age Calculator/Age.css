@@ -1,0 +1,48 @@
+ body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f6e2;
+    text-align: center;
+}
+
+.container {
+    max-width: 550px;
+    margin: 100px auto;
+    background-color: #0e3be0af;
+    padding: 40px;
+    border-radius: 40px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+ }
+
+h1 {
+    color: #333;
+}
+
+label {
+    display: block;
+    margin-bottom: 12px;
+    font-weight: bold;
+}
+
+input[type="date"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #2cdf92;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+p {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+    
